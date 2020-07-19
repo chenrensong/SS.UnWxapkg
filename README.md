@@ -16,3 +16,5 @@ JAVA版本：https://github.com/moqi2011/unweapp
 nodejs版本：https://github.com/thedreamwork/unwxapkg
 
 Kaitai Struct版本：https://github.com/coolzilj/kaitai_struct_format_for_wxapkg
+
+![](/assets/miniapp.png)
